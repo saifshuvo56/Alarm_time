@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(40, 40, 148);
+    color: white;
+}
+.container{
+    height: 98vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.current_time{
+    font-size: 100px;
+}
+.alarm_time{
+    font-size: 100px;
+}
+
+.alarm{
+    font-size: 30px;
+}
